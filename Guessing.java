@@ -6,7 +6,7 @@ public class Guessing {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean playAgain = true;
-a
+
         while (playAgain) {
             System.out.println("Welcome to the Number Guessing Game!\n"
                 + "I'm thinking of a Number between 1 and 100.\n"
